@@ -4,7 +4,7 @@ Add support for the gopher protocol to your project with this NSURLProtocol subc
 
 Still a work in progress, but should work for most gopher text pages. No proxy support yet.
 
-More Information about the gopher protocol can be found here [(https://en.wikipedia.org/wiki/Gopher\_%28protocol%29)]
+More Information about the gopher protocol can be found here <https://en.wikipedia.org/wiki/Gopher_(protocol)>
 
 ## Basic Usage ##
 
